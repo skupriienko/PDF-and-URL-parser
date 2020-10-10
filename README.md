@@ -1,2 +1,2 @@
 # PDF-and-URL-parser
-python module for PDF files and URLs parsing
+python module for parsing PDF and scraping URLs
